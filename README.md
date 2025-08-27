@@ -6,14 +6,21 @@ Andrea Volkamer, Katharina Buchthal
 
 ## Content
 
-Session 1
-* xxx
+Session 1 - From molecular data to models
+* CADD, AI and ML
+* The importance of data quality for ML: Data preprocessing and analysis
+* Molecular representations: Fingerprints and similarities
 
-Session 2
-* xxx
+Session 2 - Machine learning essentials
+* Introduction to ML
+* Supervised learning
+* Performance evaluation
 
-Session 3
-* xxx
+Session 3 - Deep learning applications
+* DL basics and applications
+* More molecular encodings
+* More model architectures
+
 
 ## Schedule
 
@@ -22,12 +29,14 @@ Date: 2025-09-29, 8:30 - 14:30
 
 | Time      | Topic                           | Presenter                   |
 | ----------| ------------------------------- | --------------------------- |
-| 8:30-x:xx | Lecture: xxx    | Andrea Volkamer                 |
-| x:xx-x:xx | Hands-on: [xxx][1]   | Katharina Buchthal        |
-| x:xx-x:xx | Lecture: xxx            | Andrea Volkamer             |
-| x:xx-x:xx | Hands-on: [xxx][2] | Katharina Buchthal |
-| x:xx-x:xx | Lecture: xxx         | Andrea Volkamer                |
-| x:xx-14:30 | Hands-on: [xxx][3]   | Katharina Buchthal                |
+| 08:30-09:10 | Lecture: From molecular data to models    | Andrea Volkamer                 |
+| 09:10-10:00 | Hands-on: [Data][1]   | Katharina Buchthal        |
+| 10:00-10:40 | Lecture: Machine learning (ML) essentials            | Andrea Volkamer             |
+| 10:40-11:30 | Hands-on: [ML][2] | Katharina Buchthal |
+| 11:30-12:30 | Break         |                 |
+| 12:30-13:00 | Hands-on: continued  | Katharina Buhcthal                |
+| 13:00-13:40 | Lecture: Deep learning (DL) applications         | Andrea Volkamer                |
+| 13:40-14:30 | Hands-on: [DL][3]   | Katharina Buchthal                |
 
 [1]: https://colab.research.google.com/github/volkamerlab/cic_summerschool_2025/blob/main/session_1/session_1.ipynb
 [2]: https://colab.research.google.com/github/volkamerlab/cic_summerschool_2025/blob/main/session_2/session_2.ipynb
