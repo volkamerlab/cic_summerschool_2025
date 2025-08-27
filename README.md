@@ -41,4 +41,4 @@ Date: 2025-09-29, 8:30 - 14:30
 
 
 ## Resources
-<!-- [This document](https://github.com/volkamerlab/ai_in_chemistry_workshop/blob/main/resources.md) contains a list of useful resources for learning more about AI in drug discovery. -->
+[This document](https://github.com/volkamerlab/cic_summerschool_2025/blob/main/resources.md) contains a list of useful resources for learning more about AI in drug discovery.
