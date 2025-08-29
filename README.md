@@ -29,7 +29,7 @@ Date: 2025-09-29, 8:30 - 14:30
 
 | Time      | Topic                           | Presenter                   |
 | ----------| ------------------------------- | --------------------------- |
-| 08:30-09:10 | Lecture: From molecular data to models    | Andrea Volkamer                 |
+| 08:30-09:10 | Lecture: From molecular data to models [pdf][4]   | Andrea Volkamer                 |
 | 09:10-10:00 | Hands-on: [Data][1]   | Katharina Buchthal        |
 | 10:00-10:40 | Lecture: Machine learning (ML) essentials            | Andrea Volkamer             |
 | 10:40-11:30 | Hands-on: [ML][2] | Katharina Buchthal |
@@ -41,6 +41,7 @@ Date: 2025-09-29, 8:30 - 14:30
 [1]: https://colab.research.google.com/github/volkamerlab/cic_summerschool_2025/blob/main/session_1/session_1.ipynb
 [2]: https://colab.research.google.com/github/volkamerlab/cic_summerschool_2025/blob/main/session_2/session_2.ipynb
 [3]: https://colab.research.google.com/github/volkamerlab/cic_summerschool_2025/blob/main/session_3/session_3.ipynb
+[4]: https://github.com/volkamerlab/cic_summerschool_2025/blob/main/session_1/20250829_Volkamer_CIC_Part1.pdf
 
 ## How to start using this material
 
