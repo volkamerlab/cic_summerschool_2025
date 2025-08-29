@@ -17,10 +17,9 @@ Session 2 - Machine learning essentials
 * Performance evaluation
 
 Session 3 - Deep learning applications
-* DL basics and applications
-* More molecular encodings
-* More model architectures
-
+* Deep learning
+* Neural networks
+* More molecular encodings and architectures
 
 ## Schedule
 
@@ -31,7 +30,7 @@ Date: 2025-09-29, 8:30 - 14:30
 | ----------| ------------------------------- | --------------------------- |
 | 08:30-09:10 | Lecture: From molecular data to models [pdf][4]   | Andrea Volkamer                 |
 | 09:10-10:00 | Hands-on: [Data][1]   | Katharina Buchthal        |
-| 10:00-10:40 | Lecture: Machine learning (ML) essentials            | Andrea Volkamer             |
+| 10:00-10:40 | Lecture: Machine learning (ML) essentials  [pdf][5]           | Andrea Volkamer             |
 | 10:40-11:30 | Hands-on: [ML][2] | Katharina Buchthal |
 | 11:30-12:30 | Break         |                 |
 | 12:30-13:00 | Hands-on: continued  | Katharina Buhcthal                |
@@ -42,6 +41,7 @@ Date: 2025-09-29, 8:30 - 14:30
 [2]: https://colab.research.google.com/github/volkamerlab/cic_summerschool_2025/blob/main/session_2/session_2.ipynb
 [3]: https://colab.research.google.com/github/volkamerlab/cic_summerschool_2025/blob/main/session_3/session_3.ipynb
 [4]: https://github.com/volkamerlab/cic_summerschool_2025/blob/main/session_1/20250829_Volkamer_CIC_Part1.pdf
+[5]: https://github.com/volkamerlab/cic_summerschool_2025/blob/main/session_2/20250829_Volkamer_CIC_Part2.pdf
 
 ## How to start using this material
 
