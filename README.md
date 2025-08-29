@@ -34,7 +34,7 @@ Date: 2025-09-29, 8:30 - 14:30
 | 10:40-11:30 | Hands-on: [ML][2] | Katharina Buchthal |
 | 11:30-12:30 | Break         |                 |
 | 12:30-13:00 | Hands-on: continued  | Katharina Buhcthal                |
-| 13:00-13:40 | Lecture: Deep learning (DL) applications         | Andrea Volkamer                |
+| 13:00-13:40 | Lecture: Deep learning (DL) basics [pdf][6]        | Andrea Volkamer                |
 | 13:40-14:30 | Hands-on: [DL][3]   | Katharina Buchthal                |
 
 [1]: https://colab.research.google.com/github/volkamerlab/cic_summerschool_2025/blob/main/session_1/session_1.ipynb
@@ -42,6 +42,7 @@ Date: 2025-09-29, 8:30 - 14:30
 [3]: https://colab.research.google.com/github/volkamerlab/cic_summerschool_2025/blob/main/session_3/session_3.ipynb
 [4]: https://github.com/volkamerlab/cic_summerschool_2025/blob/main/session_1/20250829_Volkamer_CIC_Part1.pdf
 [5]: https://github.com/volkamerlab/cic_summerschool_2025/blob/main/session_2/20250829_Volkamer_CIC_Part2.pdf
+[6]: https://github.com/volkamerlab/cic_summerschool_2025/blob/main/session_2/20250829_Volkamer_CIC_Part3.pdf
 
 ## How to start using this material
 
