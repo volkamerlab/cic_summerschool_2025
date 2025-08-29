@@ -42,6 +42,8 @@ Date: 2025-09-29, 8:30 - 14:30
 [3]: https://colab.research.google.com/github/volkamerlab/cic_summerschool_2025/blob/main/session_3/session_3.ipynb
 [4]: https://github.com/volkamerlab/cic_summerschool_2025/blob/main/session_1/20250829_Volkamer_CIC_Part1.pdf
 [5]: https://github.com/volkamerlab/cic_summerschool_2025/blob/main/session_2/20250829_Volkamer_CIC_Part2.pdf
+[6]: https://colab.research.google.com/github/volkamerlab/cic_summerschool_2025/blob/solutions/session_1/session_1_solution.ipynb
+[7]: https://colab.research.google.com/github/volkamerlab/cic_summerschool_2025/blob/solutions/session_2/session_2_solution.ipynb
 
 ## How to start using this material
 
